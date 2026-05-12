@@ -32,11 +32,24 @@
 
 ## Hackathons
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/39527140-214d-4a80-bca8-8691368262c4" width="48%" alt="Hackathon" />
-  <img src="https://github.com/user-attachments/assets/dab79156-fabf-4cc7-a364-259b45dfe772" width="48%" alt="Hackathon" />
-  <br />
-  <img src="https://github.com/user-attachments/assets/37278420-d328-4ea1-891c-6d887a28ba72" width="48%" alt="Hackathon" />
-  <img src="https://github.com/user-attachments/assets/dfe6a648-e74c-489a-a43f-cd819b8b3059" width="48%" alt="Hackathon" />
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github.com/user-attachments/assets/39527140-214d-4a80-bca8-8691368262c4" width="95%" alt="Hackathon" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github.com/user-attachments/assets/dab79156-fabf-4cc7-a364-259b45dfe772" width="95%" alt="Hackathon" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github.com/user-attachments/assets/37278420-d328-4ea1-891c-6d887a28ba72" width="95%" alt="Hackathon" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github.com/user-attachments/assets/dfe6a648-e74c-489a-a43f-cd819b8b3059" width="95%" alt="Hackathon" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212281799-2a5b0b4f-3d85-4a62-8e1a-b0e7c2f4c774.gif" width="100%" alt="divider" />
