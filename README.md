@@ -46,7 +46,7 @@
         <img src="https://github.com/user-attachments/assets/37278420-d328-4ea1-891c-6d887a28ba72" width="95%" alt="Hackathon" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github.com/user-attachments/assets/dfe6a648-e74c-489a-a43f-cd819b8b3059" width="95%" alt="Hackathon" />
+        <img src="https://github.com/user-attachments/assets/dfe6a648-e74c-489a-a43f-cd819b8b3059" width="100%" alt="Hackathon" />
       </td>
     </tr>
   </table>
