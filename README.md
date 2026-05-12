@@ -13,7 +13,7 @@
 </div>
 
 ## About Me
-> 6th-semester Computer Engineering student based in Gandhinagar, passionate about **AI, MERN Stack, Cloud Computing**, and building impactful real-world applications.
+> Computer Science Engineering student , passionate about **AI, MERN Stack, Cloud Computing**, and building impactful real-world applications.
 
 - 🔭 Currently exploring AI-powered products and scalable cloud systems
 - 🧠 Focused on MERN, Python, and modern AI/ML tooling
