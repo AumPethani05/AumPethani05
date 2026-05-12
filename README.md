@@ -85,24 +85,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212281799-2a5b0b4f-3d85-4a62-8e1a-b0e7c2f4c774.gif" width="100%" alt="divider" />
 
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AumPethani05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
-  <img src="https://streak-stats.demolab.com?user=AumPethani05&theme=tokyonight&hide_border=true&background=0D1117" height="160" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AumPethani05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AumPethani05&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AumPethani05&theme=tokyo-night&hide_border=true" width="100%" alt="contribution graph" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212281799-2a5b0b4f-3d85-4a62-8e1a-b0e7c2f4c774.gif" width="100%" alt="divider" />
-
 ## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
@@ -112,12 +94,3 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212281799-2a5b0b4f-3d85-4a62-8e1a-b0e7c2f4c774.gif" width="100%" alt="divider" />
-
-## Palette & Banner Idea
-> **Futuristic Palette:** `#0B0F1A` (deep space) • `#151937` (midnight blue) • `#1F1B4D` (nebula indigo) • `#7F5AF0` (neon violet) • `#38BDF8` (electric cyan)
-
-**Banner Idea:** A neon-lit cyber city skyline with floating circuit patterns, holographic UI panels, and a subtle glowing silhouette of a developer at a workstation. Use a gradient glow from **deep space blue** to **neon violet** to match the palette.
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0b0f1a,50:151937,100:1f1b4d&text=Let's%20Build%20the%20Future%20Together&fontColor=7F5AF0&fontAlign=50&fontAlignY=50" width="100%" alt="footer" />
-</div>
