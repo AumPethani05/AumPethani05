@@ -12,24 +12,25 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer GIF" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212281799-2a5b0b4f-3d85-4a62-8e1a-b0e7c2f4c774.gif" width="100%" alt="divider" />
+<img src="https://github.com/user-attachments/assets/22a82d09-97cb-404a-9883-a516f092dbaf" width="100%" alt="Aum Pethani vibe coding workspace" />
 
 ## About Me
-> Engineering student passionate about **AI, MERN Stack, Cloud Computing**, and building impactful real-world applications.
+> 6th-semester Computer Engineering student based in Gandhinagar, passionate about **AI, MERN Stack, Cloud Computing**, and building impactful real-world applications.
 
 - 🔭 Currently exploring AI-powered products and scalable cloud systems
 - 🧠 Focused on MERN, Python, and modern AI/ML tooling
-- ⚡ Always excited to ship hackathon-grade prototypes into production
+- ⚡ Rapidly shipping hackathon-grade prototypes into production via vibe coding with AI developer tools
 
 > **TechSaksham Internship**: Selected for the prestigious **AICTE–TechSaksham Internship**, a 4-week industry-backed program powered by **Microsoft, SAP, and Edunet Foundation**, focused on applying AI to real-world problems through mentorship and project-based learning.
 
 <img src="https://user-images.githubusercontent.com/74038190/212281799-2a5b0b4f-3d85-4a62-8e1a-b0e7c2f4c774.gif" width="100%" alt="divider" />
 
 ## Achievements
-- 🥇 Winner at **ImpactThon @ KSV 2026**
+- 🥇 Winner at **ImpactThon @ KSV 2026** — **Track 1: Inclusive & Human-Centered Innovation** (Team **TROJAN HORSES**)
 - 🤖 Selected for **AICTE–TechSaksham Internship** powered by Microsoft, SAP & Edunet Foundation
 - 🚀 Participated in multiple hackathons including **Hackwave 2.0** and **Intellify 3.0**
 - ☁️ Earned multiple **Google Cloud AI Skill Badges**
+- 🤝 Leadership & Community: Coordinated technical teams for **SANKALP_SURGE** and organized the hybrid **X-Blunder Bot** chess tournament
 
 ## Hackathons
 <div align="center">
@@ -51,11 +52,12 @@
 
 ## Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Backend-0D1117?style=for-the-badge&logo=node.js&logoColor=8CC84B" />
-  <img src="https://img.shields.io/badge/Database-0D1117?style=for-the-badge&logo=mongodb&logoColor=4DB33D" />
-  <img src="https://img.shields.io/badge/Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/AI%2FML-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Frontend-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" height="32" />
+  <img src="https://img.shields.io/badge/Backend-0D1117?style=for-the-badge&logo=node.js&logoColor=8CC84B" height="32" />
+  <img src="https://img.shields.io/badge/Database-0D1117?style=for-the-badge&logo=mongodb&logoColor=4DB33D" height="32" />
+  <img src="https://img.shields.io/badge/Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=38BDF8" height="32" />
+  <img src="https://img.shields.io/badge/AI%2FML-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" height="32" />
+  <img src="https://img.shields.io/badge/Blockchain-0D1117?style=for-the-badge&logo=ethereum&logoColor=3C3C3D" height="32" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212281799-2a5b0b4f-3d85-4a62-8e1a-b0e7c2f4c774.gif" width="100%" alt="divider" />
@@ -65,6 +67,9 @@
 | --- | --- | --- |
 | **Reserve ERP** | Appointment booking & service management platform | React • Node.js • MongoDB |
 | **CodeNakshatra** | Competitive coding & learning platform | Web Platform |
+| **AI-Based Sign Language Translator** | Real-time communication tool translating sign language using computer vision | MediaPipe • React • Firebase |
+| **Smart Rail Fracture Early Warning System** | Time-series anomaly detection prototype for predictive rail maintenance | Python • Time-Series ML • Sensor Analytics |
+| **AI-powered Forest Rights Act (FRA) Atlas & WebGIS DSS** | Satellite asset mapping and legacy data digitization for FRA decision support | WebGIS • GIS • React |
 
 <img src="https://user-images.githubusercontent.com/74038190/212281799-2a5b0b4f-3d85-4a62-8e1a-b0e7c2f4c774.gif" width="100%" alt="divider" />
 
@@ -87,10 +92,10 @@
 
 ## Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=7F5AF0" /></a>
-  <a href="https://leetcode.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://www.linkedin.com/in/aum-pethani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:aum.pethani@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://www.youtube.com/@chess2745" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
+  <a href="https://t.me/aump25" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212281799-2a5b0b4f-3d85-4a62-8e1a-b0e7c2f4c774.gif" width="100%" alt="divider" />
