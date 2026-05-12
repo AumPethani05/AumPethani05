@@ -12,8 +12,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer GIF" />
 </div>
 
-<img src="https://github.com/user-attachments/assets/22a82d09-97cb-404a-9883-a516f092dbaf" width="100%" alt="Aum Pethani vibe coding workspace" />
-
 ## About Me
 > 6th-semester Computer Engineering student based in Gandhinagar, passionate about **AI, MERN Stack, Cloud Computing**, and building impactful real-world applications.
 
