@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Hackathon%20Winner-0D1117?style=for-the-badge&logo=codeforces&logoColor=F7DF1E" />
   </p>
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer GIF" />
+  <img src="https://github.com/user-attachments/assets/2b53ad57-8fdc-489c-a714-ddb4a7bd9dd1" width="500" alt="Aum Pethani workspace" />
 </div>
 
 ## About Me
@@ -32,11 +32,11 @@
 
 ## Hackathons
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5c1782ac-e9f6-4a66-9594-e1699820f15e" width="48%" alt="Hackathon" />
-  <img src="https://github.com/user-attachments/assets/6acc4ec5-2254-420e-8c2b-2cdb47c4b40a" width="48%" alt="Hackathon" />
+  <img src="https://github.com/user-attachments/assets/39527140-214d-4a80-bca8-8691368262c4" width="48%" alt="Hackathon" />
+  <img src="https://github.com/user-attachments/assets/dab79156-fabf-4cc7-a364-259b45dfe772" width="48%" alt="Hackathon" />
   <br />
-  <img src="https://github.com/user-attachments/assets/6620f68e-70cf-4bb8-9d42-e7a3387c8b74" width="48%" alt="Hackathon" />
-  <img src="https://github.com/user-attachments/assets/411962cc-e08f-41c7-884c-b4d3a05c3e43" width="48%" alt="Hackathon" />
+  <img src="https://github.com/user-attachments/assets/37278420-d328-4ea1-891c-6d887a28ba72" width="48%" alt="Hackathon" />
+  <img src="https://github.com/user-attachments/assets/dfe6a648-e74c-489a-a43f-cd819b8b3059" width="48%" alt="Hackathon" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212281799-2a5b0b4f-3d85-4a62-8e1a-b0e7c2f4c774.gif" width="100%" alt="divider" />
@@ -50,12 +50,12 @@
 
 ## Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" height="32" />
-  <img src="https://img.shields.io/badge/Backend-0D1117?style=for-the-badge&logo=node.js&logoColor=8CC84B" height="32" />
-  <img src="https://img.shields.io/badge/Database-0D1117?style=for-the-badge&logo=mongodb&logoColor=4DB33D" height="32" />
-  <img src="https://img.shields.io/badge/Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=38BDF8" height="32" />
-  <img src="https://img.shields.io/badge/AI%2FML-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" height="32" />
-  <img src="https://img.shields.io/badge/Blockchain-0D1117?style=for-the-badge&logo=ethereum&logoColor=3C3C3D" height="32" />
+  <img src="https://img.shields.io/badge/Frontend-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" height="40" />
+  <img src="https://img.shields.io/badge/Backend-0D1117?style=for-the-badge&logo=node.js&logoColor=8CC84B" height="40" />
+  <img src="https://img.shields.io/badge/Database-0D1117?style=for-the-badge&logo=mongodb&logoColor=4DB33D" height="40" />
+  <img src="https://img.shields.io/badge/Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=38BDF8" height="40" />
+  <img src="https://img.shields.io/badge/AI%2FML-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" height="40" />
+  <img src="https://img.shields.io/badge/Blockchain-0D1117?style=for-the-badge&logo=ethereum&logoColor=3C3C3D" height="40" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212281799-2a5b0b4f-3d85-4a62-8e1a-b0e7c2f4c774.gif" width="100%" alt="divider" />
@@ -90,10 +90,10 @@
 
 ## Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/aum-pethani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="mailto:aum.pethani@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-  <a href="https://www.youtube.com/@chess2745" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
-  <a href="https://t.me/aump25" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a>
+  <a href="https://www.linkedin.com/in/aum-pethani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="40" /></a>
+  <a href="mailto:aum.pethani@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" height="40" /></a>
+  <a href="https://www.youtube.com/@chess2745" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000" height="40" /></a>
+  <a href="https://t.me/aump25" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" height="40" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212281799-2a5b0b4f-3d85-4a62-8e1a-b0e7c2f4c774.gif" width="100%" alt="divider" />
