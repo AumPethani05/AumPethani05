@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Hackathon%20Winner-0D1117?style=for-the-badge&logo=codeforces&logoColor=F7DF1E" />
   </p>
 
-  <img src="https://github.com/user-attachments/assets/38e81451-f314-4caa-b983-9e7bbede118e" width="500" alt="Aum Pethani workspace" />
+  <img src="https://github.com/user-attachments/assets/a6403c07-77fa-4590-a96a-2725c5def341" width="500" alt="Aum Pethani workspace" />
 </div>
 
 ## About Me
